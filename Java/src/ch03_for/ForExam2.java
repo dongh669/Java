@@ -10,7 +10,7 @@ public class ForExam2 {
 		int num = scanner.nextInt();
 		System.out.println("구구단 :"+num+"단");
 		for(int i=2;i<=10;i++) {
-			System.out.println(num+"*"+i+"="+i*num+"\t");
+			System.out.print(num+"*"+i+"="+i*num+"\t");
 		}
 	}
 
