@@ -11,15 +11,15 @@ public class work1 {
 		int height = 175;
 		int weight = 75;
 		
-		//Á¦Áö¹æ·® °è»ê
+		//ì œì§€ë°©ëŸ‰ ê³„ì‚°
 		double result = ST1 * weight - ST2 * ((weight*weight) / (double)(height*height)); 
 		System.out.println(result);
 		
-		//Ã¼Áö¹æ·® °è»ê
+		//ì²´ì§€ë°©ëŸ‰ ê³„ì‚°
 		double result2 = weight - result;
 		System.out.println(result2);
 		
-		//Ã¼Áö¹æ·ü °è»ê
+		//ì²´ì§€ë°©ë¥  ê³„ì‚°
 		double result3 = result2 * (ST3 / weight);
 		System.out.println(result3);
 		
