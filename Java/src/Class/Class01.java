@@ -1,6 +1,6 @@
 package Class;
 
-public class test {
+public class Class01 {
 
 	public static void main(String[] args) {
 		//리터럴 문자열 생성

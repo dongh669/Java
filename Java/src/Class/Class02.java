@@ -2,7 +2,7 @@ package Class;
 
 /*참조 변수 선언시 선언만하고 객체 생성을 하지 않으면
   NullPointerException예외가 발생*/
-public class test02 {
+public class Class02 {
 
 	public static void main(String[] args) {
 	int[] intArray = null; //객체 참조 변수 선언만 하고 실제 객체는 생성하지않음
