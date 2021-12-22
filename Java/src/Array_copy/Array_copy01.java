@@ -1,6 +1,6 @@
 package Array_copy;
 
-public class Array01 {
+public class Array_copy01 {
 
 	public static void main(String[] args) {
 	//1차원 배열의 복사
